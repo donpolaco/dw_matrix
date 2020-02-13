@@ -1,2 +1,5 @@
 # dw_matrix
-Projekt Matrix - Repository for learning purposes
+## Projekt transformacja, czyli Matrix
+
+Repository for learning purposes
+
